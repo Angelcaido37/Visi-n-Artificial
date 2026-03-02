@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║           CAJA REGISTRADORA CON VISIÓN ARTIFICIAL — VERSIÓN EDUCATIVA       ║
+║           CAJA REGISTRADORA CON VISIÓN ARTIFICIAL                            ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
 ║  ¿QUÉ HACE ESTE PROGRAMA?                                                   ║
@@ -1394,8 +1394,8 @@ if __name__ == "__main__":
     # Mensaje de bienvenida en la consola (informativo para el usuario)
     print("""
 ╔══════════════════════════════════════════════╗
-║   CAJA REGISTRADORA - VISIÓN IA (MEJORADA)   ║
-║   ROI + ESTABILIDAD + FILTROS + JSON         ║
+║   CAJA REGISTRADORA                          ║
+║                                              ║
 ╠══════════════════════════════════════════════╣
 ║  Requisitos:                                 ║
 ║    pip install opencv-python ultralytics     ║
